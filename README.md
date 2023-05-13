@@ -9,7 +9,7 @@
 
 # 💭 Descrição
 Neste projeto criei uma landing page de uma cafeteria fictícia, utilizei conceitos de UI design para a criação do prototipo no figma. É um projeto simples ciado com HTML, CSS e JavaScript para criar um loop que renderiza cards do cardápio com imagens e descrições, além de adicionar um efeito de rolagem suave para as âncoras de navegação. Também adicionei um botão de menu para dispositivos móveis que abre e fecha o menu quando clicado.<br>
-Você pode acessar o projeto por meio deste link: <a>https://wesleymarques329.github.io/meuPortfolio/<a>
+Você pode acessar o projeto por meio deste link: <a>https://coffe-shop-alpha.vercel.app/<a>
 
 
 ## 📲 Layout
