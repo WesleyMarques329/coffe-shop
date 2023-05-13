@@ -24,12 +24,6 @@ nav ul li a:hover {
     color: #FF5C00;
 }
 
-#menu {
-    display: flex;
-    gap: 20px;
-    list-style: none;
-}
-
 .logo {
     font-family: 'Bellota', cursive;
     font-weight: 400;
